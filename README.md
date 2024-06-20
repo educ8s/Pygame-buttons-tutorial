@@ -10,7 +10,7 @@ This repository contains the code for a video tutorial on creating and using but
 </p>
 
 <p align="center">
-🎥 <a href="https://youtu.be/u35-y3OKj3o">Video Tutorial on YouTube</a>
+🎥 <a href="https://youtu.be/q_2xwkjefNo">Video Tutorial on YouTube</a>
 </p>
 
 ## Overview
